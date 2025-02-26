@@ -36,4 +36,4 @@ jobs:
         curl -X POST \
           -H "Content-Type: application/json" \
           -d @output.json \
-          https://hooks.zapier.com/hooks/catch/XXXXXX/YYYYYY
+          https://hooks.zapier.com/hooks/catch/21327001/2ga4h6k/
